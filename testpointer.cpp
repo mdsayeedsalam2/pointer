@@ -20,7 +20,7 @@ public:
 
 int main()
 {
-    Rectangle rect(3, 4), yy;
+    Rectangle rect(5, 4), yy;
 
     cout << "myarea: " << rect.area();
     cout << "area: " << rect.area();
