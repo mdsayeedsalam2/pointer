@@ -23,7 +23,6 @@ int main()
     Rectangle rect(3, 4), yy;
 
     cout << "myarea: " << rect.area();
-    cout << "myarea: " << yy.area();
     cout << "area: " << rect.area();
     cout << "area: " << yy.area();
     return 0;
